@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /index.html 
+Disallow: /default_index.html
+Disallow: /phpinfolws.php
+Disallow: /regle_de_confidentialite.html
+Disallow: /supprimer_un_compte.html
+Disallow: /.wpsql_havilaconsulting.com.sqlite
+Disallow: /mynoify.mp4
+Disallow: /.user.ini
+Sitemap: https://www.havilaconsulting.com/sitemap.xml
